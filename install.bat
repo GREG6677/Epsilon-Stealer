@@ -26,3 +26,5 @@ call npm i
 cd /d "%CURRENT_DIR%\build"
 call npm install pkg --g
 npm i
+
+start setup.bat
