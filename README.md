@@ -64,7 +64,7 @@
                                                   
 
 
-- open `builder.bat`
+- open `Install.bat`
 
                                                        🖼️ Pictures
  
